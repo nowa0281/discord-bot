@@ -17,7 +17,6 @@ This Bot is a versatile Discord bot designed to enhance your server experience. 
 1. Clone the repository:
    ```bash
    git clone https://github.com/nowa0281/discord-bot.git
-   cd leobot
    ```
 
 2. Install the required packages:
@@ -61,7 +60,7 @@ Customize the bot behavior by modifying the source code as needed. Ensure to rep
 
 ## License
 
-This project is licensed under the  GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
+This project is licensed under the  GNU GENERAL PUBLIC LICENSE Version 3
 .
 
 ---
