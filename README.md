@@ -20,4 +20,19 @@ Leo Bot is a friendly Discord bot that can perform various tasks. It's built usi
 3. Create a `.env` file with your Discord bot token:
 
 
-ssss
+4. Run the bot using `python bot.py`.
+
+## Commands
+
+- `!hello`: Responds with a friendly greeting.
+- `!join`: Makes the bot join the voice channel.
+- `!leave`: Makes the bot leave the voice channel.
+- Detects and filters out inappropriate language automatically.
+
+## Contributing
+
+Feel free to contribute to this project by opening issues or submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
